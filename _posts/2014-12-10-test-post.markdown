@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learn a simple command in python"
-date:   2016-01-10
+date:   2016-01-01
 ---
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>

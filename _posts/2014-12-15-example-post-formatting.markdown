@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, Fantasy comic"
-date:   2016-01-02
+date:   2016-01-09
 image: f2.jpg
 ---
 
