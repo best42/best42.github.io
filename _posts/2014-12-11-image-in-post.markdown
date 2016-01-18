@@ -4,6 +4,25 @@ title:  "Common command in Command Line"
 date:   2016-01-11
 ---
 
+pwd               # present working directory
+touch <FILENAME>  # create an empty file
+ls                # List files and folders
+ls -a             # list all files and folders including hidden files
+ls -la            # list all files and folders including hidden files in detail
+cd <FOLDERNAME>   # change directory to specific folder
+cd /              # change directory to root
+cd ~              # change directory to home folder
+cd ..             # change directory up one level
+cat <FILENAME>    # see file detail
+tail <FILENAME>    # see file content from the last line of the file.
+cp <SOURCE FILE NAME> <DESTINATION FILE NAME>   #copy file
+mv <SOURCE FILE NAME> <DESTINATION FILE NAME>   #move file
+rm <FILENAME>       # delete (remove) file
+rm -r <FOLDERNAME>  # delete (remove) file or folder
+rm -f <FILENAME>    # force delete (remove) file
+rm -rf <FOLDERNAME> # force delete (remove) file or folder
+ln -s <FILENAME1> <FILENAME2>  # symbolic link file (like shortcut)
+
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
 
 Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
