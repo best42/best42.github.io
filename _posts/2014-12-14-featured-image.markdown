@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Learn python"
-quote: "Basic python for new programmer!"
+title:  "Learn python"s
 date:   2014-12-14
 image: touring.jpg
 ---

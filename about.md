@@ -1,15 +1,14 @@
 ---
 layout: default
-title: About Long Haul
+title: About Me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
+	<h1 class="pageTitle">About Myself</h1>
+	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
+	<p>My name is Pimnipa Kanajarusroj</p>
+	<h2>My blog</h2>
+	<!-- <ul>
 		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
   		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
@@ -21,5 +20,5 @@ title: About Long Haul
       <li>Estimated Reading Time for posts</li>
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+  	</ul> -->
 </div>
