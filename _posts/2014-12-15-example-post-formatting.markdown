@@ -5,7 +5,7 @@ date:   2016-01-02
 image: f2.jpg
 ---
 
-<p class="intro"><span class="dropcap">Type</span>ype of fantasy comic starting from past to now with a good comic link!.</p>
+<p class="intro"><span class="dropcap">Type</span> of fantasy comic starting from past to now with a good comic link!.</p>
 
 #Fantasy comic was separate in 3 types
 

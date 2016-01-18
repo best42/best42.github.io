@@ -9,7 +9,7 @@ permalink: blog/:title/
 markdown: redcarpet
 highlighter: pygments
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 6
 
 navigation:
  - title: Home

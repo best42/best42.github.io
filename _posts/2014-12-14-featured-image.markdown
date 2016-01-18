@@ -2,7 +2,6 @@
 layout: post
 title:  "3 tips for get to sleep"
 date:   2014-12-14
-image: touring.jpg
 ---
 
 ### 3 simple tips to make you sleep!!!
