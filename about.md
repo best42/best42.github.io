@@ -7,7 +7,8 @@ title: About Me
 	<h1 class="pageTitle">About Myself</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 	<p>My name is Pimnipa Kanajarusroj</p>
-	<h2>My blog</h2>
+	<p>My birthdate is 14/11/1995</p>
+	<!-- <h2>My blog</h2> -->
 	<!-- <ul>
 		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
   		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
