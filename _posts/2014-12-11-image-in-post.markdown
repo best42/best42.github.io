@@ -5,6 +5,7 @@ date:   2016-01-11
 ---
 {% highlight html %}
 pwd               # present working directory
+mkdir <FILENAME>  # crete an empty directory
 touch <FILENAME>  # create an empty file
 ls                # List files and folders
 ls -a             # list all files and folders including hidden files
@@ -23,5 +24,3 @@ rm -f <FILENAME>    # force delete (remove) file
 rm -rf <FOLDERNAME> # force delete (remove) file or folder
 ln -s <FILENAME1> <FILENAME2>  # symbolic link file (like shortcut)
 {% endhighlight %}
-
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">

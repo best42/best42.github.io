@@ -6,20 +6,18 @@ date:   2016-01-12
 
 #### 1.) Back up your computer
 
-There
+There are serveral way to backup
+- time-machine
+- save in data storage
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+#### 2.) Create an installation USB of El Capitan.
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+#### 3.) Boot from USB and use disk utility to erase all partitions.
 
-<figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
+- click shut down
+- open computer again by push start buttom + option
+- Go to disk utility and click erase
 
-{% highlight html %}
-<figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
-{% endhighlight %}
+#### 4.) Create a new partition.
+
+#### 5.) click install new OS
