@@ -7,6 +7,7 @@ date:   2016-01-12
 #### 1.) Back up your computer
 
 There are serveral way to backup
+
 - time-machine
 - save in data storage
 
@@ -15,7 +16,7 @@ There are serveral way to backup
 #### 3.) Boot from USB and use disk utility to erase all partitions.
 
 - click shut down
-- open computer again by push start buttom + option
+- open computer again by push start buttons + option
 - Go to disk utility and click erase
 
 #### 4.) Create a new partition.
