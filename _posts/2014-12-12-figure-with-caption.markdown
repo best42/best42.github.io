@@ -23,4 +23,5 @@ There are serveral way to backup
 
 #### 5.) click install new OS
 
+- (don't forget to insert USB)
 <img src="{{ '/assets/img/clean.jpg' | prepend: site.baseurl }}" alt="">
