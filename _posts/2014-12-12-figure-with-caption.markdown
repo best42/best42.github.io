@@ -21,3 +21,5 @@ There are serveral way to backup
 #### 4.) Create a new partition.
 
 #### 5.) click install new OS
+
+<img src="{{ '/assets/img/clean.jpg' | prepend: site.baseurl }}" alt="">
