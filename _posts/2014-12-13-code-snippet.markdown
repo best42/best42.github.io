@@ -15,7 +15,8 @@ git init
 {% highlight ruby %}
 git remote add origin https://github.com/best42/best42.github.io.git
 {% endhighlight %}
-* (https://github.com/best42/best42.github.io.git) this will change according to your name of repository
+
+- (https://github.com/best42/best42.github.io.git) this will change according to your name of repository
 
 #### 3. To check whether there has change in your work or not
 {% highlight ruby %}
@@ -31,9 +32,18 @@ git add .
 {% highlight ruby %}
 git commit -m “initial commit“
 {% endhighlight %}
-* (“initial commit“) you can whether you want but tip from me is to make a name that suit with change to your work
+
+- (“initial commit“) you can whether you want but tip from me is to make a name that suit with change to your work
 
 #### 6. Push your work into github
 {% highlight html %}
 git push -u origin master
 {% endhighlight %}
+
+- This is only for the first push, if just edit then "git push"
+
+#### If there some changes in your work and want to push in github then
+
+- repeat step 4 'git add .'
+- repeat step 5 'git commit -m "name"'
+- "git push"
