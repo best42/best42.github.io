@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Common command in Command Line"
+title:  "Common command in Terminal"
 date:   2016-01-11
 ---
 {% highlight html %}
